@@ -1,8 +1,5 @@
 #### Weak 0 Assignment Journal: 
 
-[TOC]
-
-
 
 I'm a newcomer for computer programing. Learning python in Py103 open another door of viewing world for me.
 
